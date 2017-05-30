@@ -1,2 +1,3 @@
-# 1stPersonBulletPhysics
-A pretty simple bullet physics test
+# A simple first person bullet physics test with a nice little test level
+
+
